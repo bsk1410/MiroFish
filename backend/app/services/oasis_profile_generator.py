@@ -1126,10 +1126,10 @@ Important:
         
         # Chinese to English mapping
         gender_map = {
-            "男": "male",
-            "女": "female",
-            "机构": "other",
-            "其他": "other",
+            "男": "male",      # Chinese: male
+            "女": "female",    # Chinese: female
+            "机构": "other",  # Chinese: institution
+            "其他": "other",  # Chinese: other
             # English already present
             "male": "male",
             "female": "female",
